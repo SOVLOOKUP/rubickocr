@@ -8,8 +8,11 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "ant-design-vue": "^2.2.8",
     "tesseract.js": "^2.1.5",
-    "vue": "^3.2.16"
+    "less": "^4.1.2",
+    "vue": "^3.2.16",
+    "vue-clipboard3": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^16.11.6",
